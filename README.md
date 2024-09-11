@@ -125,22 +125,35 @@ The summary view will be divided into three main sections: **Overview**, **Demog
 1. **Plan the Dashboard**
    - Dashboard Mockup
    - Container Mockup
+
+![image](https://github.com/user-attachments/assets/8db3738e-b90f-4f9d-9940-fcca7464b666)
+
+
 2. **Create Container Structure**
-3. **Put All Together**
-4. **Fixing Colors**
-5. **Fix Texts**
-6. **Refine Charts**
-7. **Fix Spacing**
+
+![image](https://github.com/user-attachments/assets/0bf1a578-5f6f-417c-9542-7844f0df1bef)
+
+4. **Put All Together**
+![image](https://github.com/user-attachments/assets/8ef381a7-e419-4d2f-bcea-b5708f9a949d)
+
+
+6. **Fixing Colors**
+![image](https://github.com/user-attachments/assets/aa6a164e-3dfb-4286-bad2-ead92e6e3930)
+
+
+8. **Fix Texts**
+9. **Refine Charts**
+10. **Fix Spacing**
    - **Outer Padding**: 20
    - **Inner Padding**: 7
    - **Spacing Between Charts**: 10
-8. **Fix Tooltips**
+11. **Fix Tooltips**
    - Highlighted measure and words should be bold and grey
-9. **Add Filters & Legends**
+11. **Add Filters & Legends**
    - Legends
    - Action Filters
    - Quick Filters
-10. **Add Logos & Icons**
+11. **Add Logos & Icons**
 
 ## Building HR Detailed Chart
 
@@ -148,6 +161,8 @@ The summary view will be divided into three main sections: **Overview**, **Demog
 
 - Provide a comprehensive list of all employees with necessary information such as name, department, position, gender, age, education, and salary.
 - Users should be able to filter the list based on any of the available columns.
+![image](https://github.com/user-attachments/assets/288bc252-a6bd-43ee-adef-e0fa6db7f39c)    ![image](https://github.com/user-attachments/assets/dcfb0131-7195-48fc-b441-33a90f19786b)
+
 
 ---
 

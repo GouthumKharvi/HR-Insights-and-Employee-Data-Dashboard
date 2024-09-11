@@ -151,4 +151,3 @@ The summary view will be divided into three main sections: **Overview**, **Demog
 
 ---
 
-Feel free to adjust any specific details to better fit your project or preferences!

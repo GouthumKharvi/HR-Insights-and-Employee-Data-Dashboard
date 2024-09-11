@@ -155,6 +155,10 @@ The summary view will be divided into three main sections: **Overview**, **Demog
    - Quick Filters
 11. **Add Logos & Icons**
 
+## Final HR Dashboard
+![image](https://github.com/user-attachments/assets/19bfed81-d860-441a-9e43-65dc04b3c9d3)
+
+
 ## Building HR Detailed Chart
 
 ### Employee Records View

@@ -168,5 +168,8 @@ The summary view will be divided into three main sections: **Overview**, **Demog
 ![image](https://github.com/user-attachments/assets/288bc252-a6bd-43ee-adef-e0fa6db7f39c)    ![image](https://github.com/user-attachments/assets/dcfb0131-7195-48fc-b441-33a90f19786b)
 
 
+## Employee List Final Dashboard
+![image](https://github.com/user-attachments/assets/1d544b1f-a13e-4af8-bd5d-511fcdb468c7)
+
 ---
 

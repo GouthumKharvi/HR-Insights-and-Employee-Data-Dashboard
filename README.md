@@ -6,7 +6,6 @@ This Tableau dashboard provides HR managers with a clear view of workforce data,
 https://github.com/user-attachments/assets/356817a0-738a-4aa8-ae67-c806668c1a08
 
 
-Certainly! Here's a refined and formatted version of your project steps and description, suitable for inclusion in a GitHub README:
 
 ---
 
